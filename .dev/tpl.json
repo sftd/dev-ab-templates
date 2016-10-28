@@ -1,0 +1,15 @@
+{
+  "# ab-templates": ,
+  "backPath": "../back/cache/ABTemplate/sys",
+  "frontPath": "../front/tmp/ab-template/sys",
+  "indexPath": "../",
+
+  "templates": [
+    "# ../back/ecore/*/abTemplate",
+    "# ../back/esite/overwrites/SPTpl/abTemplate"
+  ],
+
+  "css": [
+    "../dev/css/**/*.css"
+  ]
+}

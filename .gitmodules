@@ -1,0 +1,18 @@
+[submodule ".dev/node_modules/ab-log"]
+	path = .dev/node_modules/ab-log
+	url = https://github.com/allblue-pl/npm-ab-log
+[submodule ".dev/node_modules/ab-templates-css"]
+	path = .dev/node_modules/ab-templates-css
+	url = https://github.com/allblue-pl/npm-ab-templates-css
+[submodule ".dev/node_modules/ab-recall"]
+	path = .dev/node_modules/ab-recall
+	url = https://github.com/allblue-pl/js-lib-ab-recall
+[submodule ".dev/node_modules/ab-watcher"]
+	path = .dev/node_modules/ab-watcher
+	url = https://github.com/allblue-pl/npm-ab-watcher
+[submodule ".dev/node_modules/ab-templates"]
+	path = .dev/node_modules/ab-templates
+	url = https://github.com/allblue-pl/npm-ab-templates
+[submodule ".dev/node_modules/ab-templates-js"]
+	path = .dev/node_modules/ab-templates-js
+	url = https://github.com/allblue-pl/npm-ab-templates-js
